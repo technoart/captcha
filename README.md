@@ -28,7 +28,7 @@ Note:  its require PHP GD image library. Generally it’s available in all php v
 
 Thanks
 
-Ramanath Das
+Ramanath
   
 
 
