@@ -27,6 +27,7 @@ If you got the captcha image then open the CaptchaGenerator.Class.php file and u
 Note:  its require PHP GD image library. Generally it’s available in all php versions.
 
 Thanks
+
 Ramanath Das
   
 
