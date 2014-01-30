@@ -12,9 +12,9 @@ Place the folder to appropriate location of your website.
 
 Open index.php file and check the html code. 
 
-Copy the html image tag [<img  src=””  /> ] and paste it where you want to display the captcha image.
+Copy the html image tag [ img  src='' ] and paste it where you want to display the captcha image.
 
-Reset the Image [ <img src=”” >] SRC location path to the getCaptcha.php file.
+Reset the Image [ img src='' ] SRC location path to the getCaptcha.php file.
 
 Open the getCaptcha.php file and change the $_SESSION variable index name, what you want to use in your project.
 
