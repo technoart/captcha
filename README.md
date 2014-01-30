@@ -2,7 +2,7 @@ captcha
 =======
 Captcha Integration Library
 
-It’s very simple PHP based Captcha Generator Class where you required minimal coding. 
+It’s simple PHP based Captcha Generator Class where you required minimal coding. 
 
 It’s a session based Captcha Verification System.
 
